@@ -1,11 +1,7 @@
 Final Project Rubric
 ====================
 
-<<<<<<< HEAD
-Gamely Challenges: 50 points
-=======
 Gamely Challenges: 60 points
->>>>>>> fc6877ec9010494d4d8a2ac31d80dd531c88a749
 ----------------------------
 Is it fun?
     1 to 10 points.  Determined by classmates written review.
@@ -45,17 +41,12 @@ Does it use AJAX?
 Does it use COMET?
     5 points
 
-Does it use CoffeScript?
-    1 to 5 points
-
-Does it use Python?
-    1 to 5 points
-
 Is it hosted on OpenShift or a similar PaaS?
     5 points
 
 Does it hook into Facebook
     2 points
+    
 STEMly Challenges: 80 points
 -----------------------------
 Does it meet criteria for a STEM challenge submission?
@@ -139,8 +130,15 @@ Did it get a head-nod from Cookie Monster?
     
 Languages: 20 points
 --------------------
+Does it use CoffeScript?
+    1 to 5 points
+
+Does it use Python?
+    1 to 5 points
+    
 Does it use 2 or more languages?
 	10 points
+	
 Does it use 3 or more languages?
 	10 points
 
