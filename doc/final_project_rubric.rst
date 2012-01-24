@@ -111,14 +111,14 @@ Did it get a head-nod from Big Bird?
 Did it get a head-nod from Cookie Monster?
     100 points
     
-Languages
----------
+Languages: 20 points
+--------------------
 Does it use 2 or more languages?
 	10 points
 Does it use 3 or more languages?
 	10 points
 
-Total possible points:  551+
+Total possible points:  571+
 ----------------------------
 
 Total needed points: 100
