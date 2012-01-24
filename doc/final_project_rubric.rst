@@ -1,7 +1,7 @@
 Final Project Rubric
 ====================
 
-Gamely Challenges: 40 points
+Gamely Challenges: 50 points
 ----------------------------
 Is it fun?
     1 to 10 points.  Determined by classmates written review.
@@ -17,6 +17,9 @@ Does the game include instructions on how to play? (tutorials, help screens, rea
 
 Does the game give good input feedback? (sound, animation, etc...)
 	1 - 10 points.
+
+Does the game have multiplayer support?
+	2 points per player (max. 10pts)
 
 Techly Challenges: 17 points
 ----------------------------
@@ -118,7 +121,7 @@ Does it use 2 or more languages?
 Does it use 3 or more languages?
 	10 points
 
-Total possible points:  571+
+Total possible points:  581+
 ----------------------------
 
 Total needed points: 100
