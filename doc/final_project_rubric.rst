@@ -77,7 +77,7 @@ Does it include a ninja, a pirate, and a robot?
 Does it contain a velociraptor?
     1 to 3 points ( for how awesome the raptor is ).
 
-FOSSly Challenges: 36+ points
+FOSSly Challenges: 41+ points
 -----------------------------
 Is your code hosted on an open code forge?
     1 point for each forge.
@@ -99,6 +99,9 @@ Are commits to the git repository "early and often"?
 
 Does it hook into http://identi.ca?
     5 points
+    
+Does it pull profiles from http://gravitar.com?
+	5 points
 
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
     20 points per language.
