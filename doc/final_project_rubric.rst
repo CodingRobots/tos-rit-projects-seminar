@@ -52,6 +52,9 @@ Does the game include includestructions on how to play? (tutorials, help screens
 Does the game give good input feedback? (sound, animation, etc...)
     10 points.
 
+Does it support multiplayer?
+	2 points per player (max. 10 points)
+
 Techly Challenges
 -----------------
 
@@ -69,12 +72,6 @@ Does it use COMET?
 
 Does it run on PC / MAC?
     5 points.
-
-Does it use CoffeScript?
-    5 points
-
-Does it use Python?
-    5 points
 
 Is it hosted on OpenShift or a similar PaaS?
     5 points
@@ -96,14 +93,6 @@ Does it meet the criteria for a PBS Kids submission?
 
 Does it meet the criteria for a Middle School prize submission?
     20 points
-
-Teamly Challenges
------------------
-
-Is your team awesome? (did they pull their weight?)
-      (for 3 person teams) 20 points per awesome team member
-      (for 4 person teams) 15 points per awesomesome team member
-      (for 5 person teams) 12 points personr awesome team member
 
 Funly Challenges
 ----------------
@@ -170,11 +159,11 @@ Did it get a head-nod from Cookie Monster?
     
 Languages: 30 points
 --------------------
-Does it use CoffeScript?
-    1 to 5 points
+Does it use CoffeeScript?
+    5 points
 
 Does it use Python?
-    1 to 5 points
+    5 points
     
 Does it use 2 or more languages?
 	10 points
