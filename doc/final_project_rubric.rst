@@ -27,7 +27,7 @@ Does the game give good input feedback? (sound, animation, etc...)
 Does the game have multiplayer support?
 	2 points per player (max. 10pts)
 
-Techly Challenges: 17 points
+Techly Challenges: 24 points
 ----------------------------
 Does it run well on all modern browsers?
     1 to 5 points.
@@ -128,7 +128,7 @@ Did it get a head-nod from Big Bird?
 Did it get a head-nod from Cookie Monster?
     100 points
     
-Languages: 20 points
+Languages: 30 points
 --------------------
 Does it use CoffeScript?
     1 to 5 points
@@ -142,7 +142,7 @@ Does it use 2 or more languages?
 Does it use 3 or more languages?
 	10 points
 
-Total possible points:  581+
+Total possible points:  613+
 ----------------------------
 
 Total needed points: 100
