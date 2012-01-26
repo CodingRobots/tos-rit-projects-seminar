@@ -130,7 +130,7 @@ Does your project have a dedicated IRC channel?
 Does your project have a dedicated Mailing List?
     2 points.
 
-Does your project have a dedicated Web Forum?
+Does your project have a dedicated Web Forum? (For the player base)
     3 points.
 
 Are commits to the git repository "early and often"?
@@ -139,7 +139,7 @@ Are commits to the git repository "early and often"?
 Does it hook into http://identi.ca?
     5 points
     
-Does it pull profiles from http://gravitar.com?
+Does it pull profiles from http://gravatar.com?
 	5 points
 
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
