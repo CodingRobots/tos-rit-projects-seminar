@@ -52,11 +52,14 @@ Does the game include includestructions on how to play? (tutorials, help screens
 Does the game give good input feedback? (sound, animation, etc...)
     10 points.
 
+Does it support multiplayer?
+	2 points per player (max. 10 points)
+
 Techly Challenges
 -----------------
 
 Does it run well on all modern browsers?
-    5 points.
+    1 to 5 points.
 
 Does it run well on all modern mobile devices?
     5 points.
@@ -69,12 +72,6 @@ Does it use COMET?
 
 Does it run on PC / MAC?
     5 points.
-
-Does it use CoffeScript?
-    5 points
-
-Does it use Python?
-    5 points
 
 Is it hosted on OpenShift or a similar PaaS?
     5 points
@@ -96,14 +93,6 @@ Does it meet the criteria for a PBS Kids submission?
 
 Does it meet the criteria for a Middle School prize submission?
     20 points
-
-Teamly Challenges
------------------
-
-Is your team awesome? (did they pull their weight?)
-      (for 3 person teams) 20 points per awesome team member
-      (for 4 person teams) 15 points per awesomesome team member
-      (for 5 person teams) 12 points personr awesome team member
 
 Funly Challenges
 ----------------
@@ -141,7 +130,7 @@ Does your project have a dedicated IRC channel?
 Does your project have a dedicated Mailing List?
     2 points.
 
-Does your project have a dedicated Web Forum?
+Does your project have a dedicated Web Forum? (For the player base)
     3 points.
 
 Are commits to the git repository "early and often"?
@@ -149,6 +138,9 @@ Are commits to the git repository "early and often"?
 
 Does it hook into http://identi.ca?
     5 points
+    
+Does it pull profiles from http://gravatar.com?
+	5 points
 
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
     20 points per language.
@@ -164,3 +156,23 @@ Did it get a head-nod from Big Bird?
 
 Did it get a head-nod from Cookie Monster?
     100 points
+    
+Languages: 30 points
+--------------------
+Does it use CoffeeScript?
+    5 points
+
+Does it use Python?
+    5 points
+    
+Does it use 2 or more languages?
+	10 points
+	
+Does it use 3 or more languages?
+	10 points
+
+Total possible points:  613+
+----------------------------
+
+Total needed points: 100
+------------------------
